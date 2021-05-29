@@ -1,2 +1,3 @@
-# React-context-api
-To explore Reactjs context api
+# Getting Started with Create React App
+
+Context api with ReactJS
